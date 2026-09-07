@@ -5,13 +5,13 @@ about:
   head: 80797ea
   archived: false
   latestVersion: "v0.2.0"
-  collectedAt: 2026-09-07T05:31:50Z
+  collectedAt: 2026-09-07T18:54:42Z
 timeline:
   created: 2023-03-07
   lastCommit: 2026-09-01
   lastRelease: 2024-06-20
 popularity:
-  star: 766
+  star: 767
   watcher: 2
   fork: 14
   release: 10
@@ -81,7 +81,7 @@ total:
   commit: 649
 ---
 path: /home/runner/.x-repo/github.com/orhun/halp
-collectedAt: 2026-09-07T05:31:52Z
+collectedAt: 2026-09-07T18:54:44Z
 loc:
   Rust:
     code: 1174
@@ -122,7 +122,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:53+00:00
+  collectedAt: 2026-09-07T18:54:44+00:00
   platform:
     darwin/arm64:
       name:  halp-0.2.0-aarch64-apple-darwin.tar.gz
