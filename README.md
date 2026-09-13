@@ -38,7 +38,7 @@ Total: **1,393** lines of code across **28** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 767 · **Forks**: 14 · **Open issues**: 18 · **Contributors**: 11
+- **Stars**: 768 · **Forks**: 14 · **Open issues**: 18 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,393** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-14 | 0 | 13 | 0 | 0 | 0 | 13 |
-| 90d | 2026-06-14 | 0 | 19 | 0 | 0 | 0 | 19 |
-| last180d | 2026-03-16 | 0 | 37 | 0 | 0 | 0 | 37 |
-| 360d | 2025-09-17 | 0 | 64 | 0 | 1 | 0 | 64 |
-| last720d | 2024-09-22 | 0 | 143 | 0 | 1 | 0 | 144 |
+| 30d | 2026-08-14 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-15 | 0 | 13 | 0 | 0 | 0 | 13 |
+| 90d | 2026-06-15 | 0 | 18 | 0 | 0 | 0 | 18 |
+| last180d | 2026-03-17 | 0 | 37 | 0 | 0 | 0 | 37 |
+| 360d | 2025-09-18 | 0 | 64 | 0 | 1 | 0 | 64 |
+| last720d | 2024-09-23 | 0 | 141 | 0 | 1 | 0 | 144 |
 
 ## Release assets
 
@@ -118,4 +118,4 @@ Install metadata for halp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:31:03Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:32:08Z._
