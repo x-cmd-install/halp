@@ -38,7 +38,7 @@ x install halp
 
 ## 流行度
 
-- **Star**: 768 · **Fork**: 14 · **开放 issue**: 18 · **贡献者**: 11
+- **Star**: 769 · **Fork**: 14 · **开放 issue**: 18 · **贡献者**: 11
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install halp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-15 | 0 | 13 | 0 | 0 | 0 | 13 |
-| 90d | 2026-06-15 | 0 | 18 | 0 | 0 | 0 | 18 |
-| last180d | 2026-03-17 | 0 | 37 | 0 | 0 | 0 | 37 |
-| 360d | 2025-09-18 | 0 | 64 | 0 | 1 | 0 | 64 |
-| last720d | 2024-09-23 | 0 | 141 | 0 | 1 | 0 | 144 |
+| 30d | 2026-08-15 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-16 | 0 | 13 | 0 | 0 | 0 | 13 |
+| 90d | 2026-06-16 | 0 | 18 | 0 | 0 | 0 | 18 |
+| last180d | 2026-03-18 | 0 | 37 | 0 | 0 | 0 | 37 |
+| 360d | 2025-09-19 | 0 | 64 | 0 | 1 | 0 | 64 |
+| last720d | 2024-09-24 | 0 | 140 | 0 | 1 | 0 | 142 |
 
 ## Release 资产
 
@@ -98,17 +98,6 @@ x install halp
 | [halp-0.2.0-x86_64-unknown-linux-musl.tar.gz.sig](https://github.com/orhun/halp/releases/download/v0.2.0/halp-0.2.0-x86_64-unknown-linux-musl.tar.gz.sig) | 566 B | `native/linux/x64/musl` |
 | [orhun-halp.spdx.json](https://github.com/orhun/halp/releases/download/v0.2.0/orhun-halp.spdx.json) | 2.9 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/halp) 上共有 **20** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.2.0` | ✅ latest |
-| Homebrew | `0.2.0` | ✅ latest |
-| Nix unstable | `0.2.0` | ✅ latest |
-| Alpine edge | `0.2.0` | ✅ latest |
-
 ## 改进这些数据
 
 halp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `halp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -118,4 +107,4 @@ halp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:32:08Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:50:31Z._
