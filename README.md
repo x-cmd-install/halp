@@ -33,7 +33,7 @@ Total: **1,393** lines of code across **28** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.0` (2024-06-20)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-11-01
 - **Assets in release**: 38
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **1,393** lines of code across **28** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 395 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 5 · **Commits**: 656
+- **Releases**: 10 · **Merged PRs**: 397 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 5 · **Commits**: 658
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 7 | 0 | 0 | 0 | 7 |
-| 90d | 2026-08-02 | 0 | 12 | 0 | 0 | 0 | 12 |
-| last180d | 2026-05-04 | 0 | 27 | 0 | 0 | 1 | 27 |
-| 360d | 2025-11-05 | 0 | 59 | 0 | 0 | 1 | 59 |
-| last720d | 2024-11-10 | 0 | 131 | 0 | 1 | 1 | 132 |
+| 30d | 2026-10-02 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-02 | 0 | 9 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-03 | 0 | 14 | 0 | 0 | 0 | 14 |
+| last180d | 2026-05-05 | 0 | 29 | 0 | 0 | 1 | 29 |
+| 360d | 2025-11-06 | 0 | 61 | 0 | 0 | 1 | 61 |
+| last720d | 2024-11-11 | 0 | 132 | 0 | 1 | 1 | 134 |
 
 ## Release assets
 
@@ -118,4 +118,4 @@ Install metadata for halp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:19:56Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:48:28Z._
