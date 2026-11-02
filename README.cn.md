@@ -48,12 +48,12 @@ x install halp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-02 | 0 | 9 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-03 | 0 | 14 | 0 | 0 | 0 | 14 |
-| last180d | 2026-05-05 | 0 | 29 | 0 | 0 | 1 | 29 |
-| 360d | 2025-11-06 | 0 | 61 | 0 | 0 | 1 | 61 |
-| last720d | 2024-11-11 | 0 | 132 | 0 | 1 | 1 | 134 |
+| 30d | 2026-10-03 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-03 | 0 | 9 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-04 | 0 | 14 | 0 | 0 | 0 | 14 |
+| last180d | 2026-05-06 | 0 | 29 | 0 | 0 | 1 | 29 |
+| 360d | 2025-11-07 | 0 | 61 | 0 | 0 | 1 | 61 |
+| last720d | 2024-11-12 | 0 | 131 | 0 | 1 | 1 | 133 |
 
 ## Release 资产
 
@@ -100,12 +100,12 @@ x install halp
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/halp) 上共有 **20** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/halp) 上共有 **20** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.2.0` | ✅ latest |
-| Homebrew | `0.2.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.2.0` | ✅ latest |
 | Alpine edge | `0.2.0` | ✅ latest |
 
@@ -118,4 +118,4 @@ halp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:48:29Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:48:52Z._
