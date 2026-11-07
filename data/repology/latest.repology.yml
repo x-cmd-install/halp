@@ -1,51 +1,34 @@
-- repo: nix_stable_24_11
+- repo: homebrew
   srcname: halp
   visiblename: halp
-  version: 0.1.7
+  version: HEAD
   origversion: null
-  status: outdated
+  status: rolling
   summary: CLI tool to get help with CLI tools
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_05
+- repo: manjaro_stable
+  subrepo: extra
   srcname: halp
+  binname: halp
   visiblename: halp
   version: 0.2.0
-  origversion: null
+  origversion: 0.2.0-2
   status: newest
-  summary: CLI tool to get help with CLI tools
-  maintainers:
-    - figsoda@pm.me
+  summary: A CLI tool to get help with CLI tools
   licenses:
-    - Apache-2.0
     - MIT
-- repo: nix_stable_25_11
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
   srcname: halp
+  binname: halp
   visiblename: halp
   version: 0.2.0
-  origversion: null
+  origversion: 0.2.0-2
   status: newest
-  summary: CLI tool to get help with CLI tools
-  maintainers:
-    - fallback-mnt-nix@repology
+  summary: A CLI tool to get help with CLI tools
   licenses:
-    - Apache-2.0
     - MIT
-- repo: nix_stable_26_05
-  srcname: halp
-  visiblename: halp
-  version: 0.2.0
-  origversion: null
-  status: newest
-  summary: CLI tool to get help with CLI tools
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
     - Apache-2.0
-    - MIT
 - repo: nix_unstable
   srcname: halp
   visiblename: halp
@@ -70,37 +53,6 @@
   licenses:
     - MIT
     - Apache-2.0
-- repo: homebrew
-  srcname: halp
-  visiblename: halp
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI tool to get help with CLI tools
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: halp
-  binname: halp
-  visiblename: halp
-  version: 0.1.7
-  origversion: 0.1.7-1
-  status: outdated
-  summary: A CLI tool to get help with CLI tools
-  licenses:
-    - MIT
-    - Apache
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: halp
-  binname: halp
-  visiblename: halp
-  version: 0.1.7
-  origversion: 0.1.7-1
-  status: outdated
-  summary: A CLI tool to get help with CLI tools
-  licenses:
-    - MIT
-    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: halp
@@ -232,6 +184,54 @@
   summary: A CLI tool to get help with CLI tools
   maintainers:
     - figsoda@pm.me
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_24_11
+  srcname: halp
+  visiblename: halp
+  version: 0.1.7
+  origversion: null
+  status: outdated
+  summary: CLI tool to get help with CLI tools
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: halp
+  visiblename: halp
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: CLI tool to get help with CLI tools
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_11
+  srcname: halp
+  visiblename: halp
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: CLI tool to get help with CLI tools
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_26_05
+  srcname: halp
+  visiblename: halp
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: CLI tool to get help with CLI tools
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - Apache-2.0
     - MIT
