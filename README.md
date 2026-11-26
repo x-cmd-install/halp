@@ -48,12 +48,12 @@ Total: **1,393** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-26 | 0 | 9 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-27 | 0 | 14 | 0 | 0 | 0 | 14 |
-| last180d | 2026-05-29 | 0 | 29 | 0 | 0 | 1 | 28 |
-| 360d | 2025-11-30 | 0 | 61 | 0 | 0 | 1 | 58 |
-| last720d | 2024-12-05 | 0 | 123 | 0 | 1 | 1 | 125 |
+| 30d | 2026-10-27 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-27 | 0 | 9 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-28 | 0 | 14 | 0 | 0 | 0 | 14 |
+| last180d | 2026-05-30 | 0 | 29 | 0 | 0 | 1 | 28 |
+| 360d | 2025-12-01 | 0 | 58 | 0 | 0 | 1 | 58 |
+| last720d | 2024-12-06 | 0 | 122 | 0 | 1 | 1 | 124 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for halp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:19Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:54:55Z._
